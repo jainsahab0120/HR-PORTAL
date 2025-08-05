@@ -20,4 +20,16 @@ shell command install
 .gitignore 
 .gitkeep 
 
+git show -s --pretty=raw <commit-hash>
+
+
+
+git branch 
+git branch bug-fix
+git status 
+Head 
+
+git switch -c darkmode 
+switch alternate - checkout
+git checkout darkmode
 
