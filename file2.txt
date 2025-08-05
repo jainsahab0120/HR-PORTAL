@@ -17,3 +17,7 @@ git {present tense , imoperative} -- add button to footer
 
 shell command install 
 
+.gitignore 
+.gitkeep 
+
+
