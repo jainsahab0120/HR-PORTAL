@@ -1,2 +1,13 @@
 this is my file 2
 adding more content to file 2
+
+git init 
+git status 
+git add .
+git add file1
+git commit -m "first commit"
+
+ls -la 
+
+git log 
+git log --oneline
