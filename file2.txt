@@ -11,3 +11,9 @@ ls -la
 
 git log 
 git log --oneline
+
+
+git {present tense , imoperative} -- add button to footer 
+
+shell command install 
+
