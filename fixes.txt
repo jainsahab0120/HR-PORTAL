@@ -4,7 +4,11 @@ more bug dettected
 
 forth bug fixed
 
+<<<<<<< HEAD
 another fix msg for pinkmode 
 
 
 another fix for purplemode 
+=======
+another fix msg for pinkmode 
+>>>>>>> 6eac452 (commit fixex)
